@@ -1,0 +1,6 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/home4/sitsa8gi/swiftitsolution.com/testgit
+ - /bin/cp * $DEPLOYPATH
+ 
